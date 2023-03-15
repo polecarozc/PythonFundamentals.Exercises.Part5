@@ -2,7 +2,7 @@ import unittest
 import string_utils
 
 
-class TestStringUtils(unittest.TestCase):
+class TestStringUtils(unittest.TestCase): 
 
     def test_str_len(self):
         test_cases = [
